@@ -1,7 +1,7 @@
 angular.module('devmtnTravel').service('mainSrv', function(){
 
     this.travelInfo = [{
-        city: 'New York',
+        city: 'New York', 
         country: 'United States',
         image: "../img/NewYork.jpg",
         desc: 'Home to the Empire State Building, Times Square, Statue of Liberty and other iconic sites, New York City is a fast-paced, globally influential center of art, culture, fashion and finance',
